@@ -1,0 +1,84 @@
+
+
+
+.back-cub{
+	background-color: #92a8d1;
+	  
+ 	  width: 33%;
+	/* padding: 40% 30px !important; */
+}
+
+.back-cub-a{
+	background-color: #10a8d1;
+	 
+ 	  width: 50%;
+	/* padding: 40% 30px !important; */
+}
+
+
+.back-div{
+	background-color: #95a555;
+	height: 600px;
+	/* padding: 40% 30px !important; */
+}
+
+.back-higth{
+	height: 33.33%;
+}
+
+.prohove{
+	background-color: yellow;
+	    width: 100%;
+        height: 200px;
+        
+	background-image:url("q1.png") ;
+	background-repeat: no-repeat round;
+}
+
+.prohove:hover{
+	   width: 100%;
+        height: 200px;
+        
+	background-image:url("q1.png")  ;
+	background-repeat: no-repeat round;
+	opacity: 0.5;
+	
+}
+
+.prohove2{
+	background-color: yellow;
+	    width: 100%;
+        height: 200px;
+
+        
+	background-image:url("q2.png") ;
+	background-repeat: no-repeat round;
+	
+}
+
+.prohove2:hover{
+	    width: 100%;
+        height: 200px;
+        
+	background-image:url("q2.png")  ;
+	background-repeat: no-repeat round;
+	opacity: 0.5;
+	
+}
+
+.prohove3{
+	   width: 100%;
+        height: 200px;
+        background-repeat: no-repeat round;
+	background-image:url("q3.jpg") ;
+}
+
+.prohove3:hover{
+	    width: 100%;
+        height: 200px;
+        
+		background-image:url("q3.jpg")  ;
+		background-repeat: no-repeat round;
+		opacity: 0.5;
+	
+}
